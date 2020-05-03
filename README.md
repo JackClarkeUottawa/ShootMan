@@ -1,4 +1,6 @@
 # ShootMan
 A game made in 2017 for Ludum Dare December 2017
+This repo is a placeholder for when I FINALLY FIND THE SOURCE CODE for this game.
 
-This repo is just a placeholder for a project I did with a couple friends in 2017, Waiting on him to send it to me
+Game can be played in browser here: https://m9p909.itch.io/shootmaninbrowsermayber?secret=jcTSuMcYCKx7n4Inn6r2EyZk
+Can be Downloaded here:https://m9p909.itch.io/shootmans-bullet-bug-battles
